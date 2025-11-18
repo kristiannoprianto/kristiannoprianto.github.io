@@ -8,7 +8,7 @@ Software Developer • Real-Time Systems • Scientific Computing • Backend
 I build end-to-end software systems---from backend APIs and scientific
 computation modules to user-facing web applications and real-time
 monitoring systems. My work spans geophysics, research software, data
-processing, and full-stack development.\
+processing, and full-stack development.
 I enjoy solving complex problems, designing clean architectures, and
 collaborating in technical teams.
 
@@ -17,16 +17,16 @@ collaborating in technical teams.
 ### Software Developer --- Geoseismal Research Center
 
 *Sep 2022 -- Present, Yogyakarta* - Built a real-time monitoring system
-for geophysical data.\
+for geophysical data.
 - Published 30+ backend modules/APIs for data processing and
-integration.\
+integration.
 - Led frontend development for magnetic data workflows (upload → grid
-generation).\
+generation).
 - Co-developed scientific computation modules including preprocessing
-and moment tensor calculations.\
+and moment tensor calculations.
 - Designed processing workflows, configuration schemes, and system
-integrations.\
-- Mentored junior developers and organized technical workshops.\
+integrations.
+- Mentored junior developers and organized technical workshops.
 - Practiced Agile/Scrum methodology.
 
 ## Education
@@ -54,47 +54,51 @@ Collaboration
 
 ## Projects
 
-### Tarsius (2023--2025)
+### Tarsius (2023--2025) 
+[Sistem Processing Merah Putih](https://www.bmkg.go.id/berita/bmkg-dan-konsorsium-sistem-processing-merah-putih-mantapkan-penguatan-informasi-gempabumi-dan-tsunami-nasional)
 
 *Python, PyQt, Redis, MySQL, C++, JS*\
 Real-time earthquake processing and monitoring system. - Designed APIs
-for tsunami simulation data access\
-- Implemented moment tensor & focal mechanism modules\
+for tsunami simulation data access
+- Implemented moment tensor & focal mechanism modules
 - Built playback processing, station plotting optimization, STA/LTA
-auto-pick\
-- Designed DB schema based on QuakeML & ObsPy\
-- Created real-time waveform acquisition & plotting modules\
+auto-pick
+- Designed DB schema based on QuakeML & ObsPy
+- Created real-time waveform acquisition & plotting modules
 - Developed serializers/deserializers for Redis-based message broker
 
 ### Pertagamant (2024--2025)
+[Pertamina RTI](https://kumparan.com/kumparanbisnis/komersialisasi-hasil-riset-pertamina-ciptakan-nilai-usd-14-5-juta-20eh0JzEk5B)
 
-*Python, DRF, React, Tailwind, PostgreSQL, Docker* - APIs for MT
-correction, forward modeling, anomaly downloads\
-- Integrated Paraview 3D visualization\
-- Built preprocessing pipelines and file upload handlers\
+*Python, DRF, React, Tailwind, PostgreSQL, Docker*\
+APIs for MT correction, forward modeling, anomaly downloads
+- Integrated Paraview 3D visualization
+- Built preprocessing pipelines and file upload handlers
 - Designed user workflow and context diagrams
 
 ### Self-Potential Processing Web-App (2024)
 
-*Python, Django, JS, Julia, PostgreSQL* - SP post-processing modules\
-- SP rate computation\
-- Kalman filter integration\
-- Data upload & monitoring features\
+*Python, Django, JS, Julia, PostgreSQL*\
+SP post-processing modules
+- SP rate computation
+- Kalman filter integration
+- Data upload & monitoring features
 - Project management API
 
 ### SpectraGAMA (2022--2024)
 
-*Python, DRF, React, PostgreSQL* - Seismic propagation simulation API\
-- Data preprocessing, picking, inversion, modeling\
-- 3D visualization via Paraview\
-- Real-time progress logging & UI integration\
+*Python, DRF, React, PostgreSQL*\
+Seismic propagation simulation API
+- Data preprocessing, picking, inversion, modeling
+- 3D visualization via Paraview
+- Real-time progress logging & UI integration
 - Dataset merging & QC tools
 
 ## Other Work
 
--   **CNN-LSTM Weather Forecasting** --- Python, TensorFlow (Grade A)\
--   **IoT Hydroponic System** --- Arduino, Zabbix, Grafana\
--   **ML & DL Certificate** --- Start-Tech Academy\
+-   **CNN-LSTM Weather Forecasting** --- Python, TensorFlow (Grade A)
+-   **IoT Hydroponic System** --- Arduino, Zabbix, Grafana
+-   **ML & DL Certificate** --- Start-Tech Academy
 -   **Secure Computer User Certification** --- EC-Council
 
 ## Contact
